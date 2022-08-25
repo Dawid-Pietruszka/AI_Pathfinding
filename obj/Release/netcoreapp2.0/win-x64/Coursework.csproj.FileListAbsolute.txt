@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\bin\Release\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\bin\Release\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\bin\Release\netcoreapp2.0\win-x64\Coursework.exe
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\bin\Release\netcoreapp2.0\win-x64\Coursework.deps.json
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\bin\Release\netcoreapp2.0\win-x64\Coursework.runtimeconfig.json
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\bin\Release\netcoreapp2.0\win-x64\Coursework.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\bin\Release\netcoreapp2.0\win-x64\Coursework.dll
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\bin\Release\netcoreapp2.0\win-x64\Coursework.pdb
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\obj\Release\netcoreapp2.0\win-x64\Coursework.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\obj\Release\netcoreapp2.0\win-x64\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\obj\Release\netcoreapp2.0\win-x64\Coursework.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\obj\Release\netcoreapp2.0\win-x64\Coursework.AssemblyInfo.cs
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\obj\Release\netcoreapp2.0\win-x64\Coursework.dll
+C:\Users\admin\Desktop\Artificial Intelligence\CWReal\obj\Release\netcoreapp2.0\win-x64\Coursework.pdb
